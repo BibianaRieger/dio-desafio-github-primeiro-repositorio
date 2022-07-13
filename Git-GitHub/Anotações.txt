@@ -1,0 +1,18 @@
+Introdução ao Git e ao GitHub
+
+São tecnologias complementares, porém diferentes. 
+Git (conjunto de códigos) e GitHub (servidor).
+
+Comandos (Windows):
+
+-cd (entrar/sair)
+-dir (listar)
+-mkdir (criar pasta)
+-del/rmdir (deletar)
+-cls (limpa tela)
+-tecla tab (autocompleta)
+
+Comandos sempre inicia com Git:
+Git init (inicializa um repositório)
+Git add
+Git commit
